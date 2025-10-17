@@ -15,4 +15,8 @@ QuickAI is a SaaS platform that provides AI-powered tools and services. This pro
    Background remover: Upload image and get transparent background image using AI
    Image object remover: upload image and describe the object name to be removed from any image
    Resume Analyzer: Upload resume and get complete analysis of your resume using AI
+
+  ## Live Demo
+   Check out the live demo [https://quickai-saas-platform.onrender.com](https://quickai-saas-platform.onrender.com)
+
   
